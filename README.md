@@ -8,22 +8,22 @@ I did not make these shaders, I only made a preset to use them in Lords of the R
 
 Source Download link and credit :
 
-Reshade 
+Reshade :
 https://reshade.me/
 
-Bloom.fx
+Bloom.fx :
 https://github.com/Mortalitas/GShade/blob/master/Shaders/Bloom.fx
 
-Clarity.fx
+Clarity.fx :
 https://github.com/cyrie/Stormshade/blob/master/reshade-shaders/Shaders/Clarity.fx
 
-AmbientLight.fx
+AmbientLight.fx :
 https://github.com/cyrie/Stormshade/blob/master/reshade-shaders/Shaders/AmbientLight.fx
 
-HDR.fx
+HDR.fx :
 https://github.com/cyrie/Stormshade/blob/master/reshade-shaders/Shaders/HDR.fx
 
-LumaSharpen
+LumaSharpen :
 https://github.com/cyrie/Stormshade/blob/master/reshade-shaders/Shaders/LumaSharpen.fx
 
 ====================================================
@@ -31,4 +31,3 @@ https://github.com/cyrie/Stormshade/blob/master/reshade-shaders/Shaders/LumaShar
 Installation guide
 
 1. Install Reshade
-   a. 
