@@ -39,7 +39,6 @@ Installation guide
    1B. Go through installation process
       choose correct lotro client (see in lotro launcher>options>general)
    
-![image](https://github.com/user-attachments/assets/94f26ef3-74cd-4607-bc17-a1b1e6df0665) ![image](https://github.com/user-attachments/assets/85cdb900-1b6d-405d-9bcf-91c89aced20f) 
-![image](https://github.com/user-attachments/assets/262de7c0-d416-423b-beb2-5ee8029d5c3f)
+![image](https://github.com/user-attachments/assets/94f26ef3-74cd-4607-bc17-a1b1e6df0665) ![image](https://github.com/user-attachments/assets/85cdb900-1b6d-405d-9bcf-91c89aced20f)
 
-
+      a
