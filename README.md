@@ -67,6 +67,13 @@ Installation guide
 
 ![image](https://github.com/user-attachments/assets/6f0d37c8-e444-4713-a27d-aaa884af29e7)
 
+4. Activate Shaders
+
+   Enter lotro and press Home. Once a panel shows up click the shader file and choose Lotro-USLE
+
+
+![Screenshot 2024-12-10 141555](https://github.com/user-attachments/assets/7ff7356b-9d60-485e-ae20-3944a9290e0d)
+
 
 
 
