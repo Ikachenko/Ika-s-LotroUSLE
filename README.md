@@ -57,7 +57,7 @@ Installation guide
 
    Insert all downloaded shader files here
 
-![image](https://github.com/user-attachments/assets/c13456ad-f650-411b-a62a-0c581c1d565d) ![image](https://github.com/user-attachments/assets/fc0f842c-306c-46cb-8ed1-402e90aa4cdb)
+![image](https://github.com/user-attachments/assets/fc0f842c-306c-46cb-8ed1-402e90aa4cdb)
 
 3. Move preset
 
