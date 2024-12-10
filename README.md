@@ -14,6 +14,8 @@ I did not make these shaders, I only made a preset to use them in Lords of the R
 Requirements :
 I do not have exact requirements however, my Intel i3-1115g4's intergrated graphics (Intel UHD Graphics) could run in about 20 fps, just to set the expectation there
 
+====================================================
+
 Source Download link and credit :
 
 Reshade :
