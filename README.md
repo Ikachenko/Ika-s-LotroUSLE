@@ -1,10 +1,18 @@
 Ika's Lotro Reshade preset
+
+Gallery :
+
+![ScreenShot_2024-12-10_133629_0](https://github.com/user-attachments/assets/8f68cc48-4161-4c28-a172-2ace9759cce7)
+
 ====================================================
 
 **NOTICE** 
 I did not make these shaders, I only made a preset to use them in Lords of the Rings Online
 
 ====================================================
+
+Requirements :
+I do not have exact requirements however, my Intel i3-1115g4's intergrated graphics (Intel UHD Graphics) could run in about 20 fps, just to set the expectation there
 
 Source Download link and credit :
 
